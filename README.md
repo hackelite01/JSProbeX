@@ -38,7 +38,7 @@ JSProbeX is a Python-based tool for extracting URLs and sensitive secrets from J
 
    - **For single URL input**:
      ```bash
-     python jsprobex.py -u <URL> --secrets
+     python jsprobex.py -u <URL>
      ```
 
    - **For multiple URLs from a file**:

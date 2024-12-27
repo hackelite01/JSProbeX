@@ -2,6 +2,12 @@
 
 JSProbeX is a Python-based tool for extracting URLs and sensitive secrets from JavaScript files. This tool helps you scan multiple URLs or files for sensitive information like API keys, secret tokens, and more. It is ideal for penetration testers and bug bounty hunters who need to efficiently analyze JavaScript files and identify valuable data.
 
+<p align="center">
+  <a href="https://www.producthunt.com/posts/jsprobex?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-jsprobex" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=739691&theme=dark" alt="JSProbeX - Pentesting&#0032;tool&#0032;to&#0032;extract&#0032;secrets&#0032;&#0038;&#0032;URLs&#0032;from&#0032;JS&#0032;files | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+</p>
+
 ## Features
 
 - **URL Extraction**: Automatically extracts URLs from JavaScript files.
